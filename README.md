@@ -1,57 +1,49 @@
+# 🎨 Simulation of Geometric Shapes in Vue.js
 
-# 🎨 Simulación de Formas Geométricas en Vue.js
+Welcome to my interactive simulation project, developed in **Vue.js**. In this project, geometric shapes (squares, circles, triangles) fall due to gravity and respond to user interaction, allowing you to apply force to lift them.
 
-Bienvenido a mi proyecto de simulación interactiva, desarrollado en **Vue.js**. En este proyecto, formas geométricas (cuadrados, círculos, triángulos) caen debido a la gravedad y responden a la interacción del usuario, permitiendo aplicar fuerza para elevarlas.
+## 🚀 Features
 
-## 🚀 Características
+- **Gravity:** Geometric shapes fall from the top of the screen and stop when they hit the ground. 🌍
+- **Dynamic Interaction:** By clicking and holding the mouse button, you can apply a force to lift the shapes. 🌟
+- **Real-Time Force:** The applied force is calculated in real-time and capped at a maximum value. ⚙️
+- **Attractive Design:** A force bar displays the intensity of the applied force. 🎨
 
-- **Gravedad:** Las formas geométricas caen desde la parte superior de la pantalla y se detienen al llegar al suelo. 🌍
-- **Interacción Dinámica:** Al hacer clic y mantener el botón del mouse, puedes aplicar una fuerza para elevar las formas. 🌟
-- **Fuerza en Tiempo Real:** La fuerza aplicada se calcula en tiempo real y se limita a un valor máximo. ⚙️
-- **Diseño Atractivo:** Barra de fuerza que muestra la intensidad de la fuerza aplicada. 🎨
+## 🎯 Requirements
+- **Node.js**: [Download Node.js](https://nodejs.org/)
+- **NPM/Yarn**: Included with Node.js
 
-## 🎯 Requisitos
-- **Node.js**: [Descargar Node.js](https://nodejs.org/)
-- **NPM/Yarn**: Incluido con Node.js
+## 📦 Installation
 
-## 📦 Instalación
-
-1. **Clona el repositorio:**
+1. **Clone the repository:**
    `git clone https://github.com/tu-usuario/tu-repositorio.git` 
-2.  **Navega al directorio del proyecto:**
+2.  **Navigate to the project directory:**
     `cd tu-repositorio` 
     
-3.  **Instala las dependencias:**
+3.  **Install the dependencies:**
     `npm install` 
 
-## 🚀 Ejecución
+## 🚀 Running the App
 
-Para ejecutar la aplicación en modo de desarrollo:
+To run the application in development mode:
 
 `npm run serve` 
 
-Esto abrirá tu navegador con la aplicación en `http://localhost:8080`.
+This will open your browser with the app at `http://localhost:8080`.
 
-## 🖼 Pruebas
+## 🖼 Demo
 ![image](https://github.com/user-attachments/assets/3b2daece-2912-48c1-a23c-beb17b88bc90)
 
-## 🌐 Despliegue
+## 🌐 Deployment
 
-Puedes ver la aplicación en vivo una vez la ejecutes.
+You can see the live application once you run it.
 
-## 👨‍💻 Proceso de Aprendizaje en Vue.js
+## 👨‍💻 Contact
 
-**Introducción y Configuración del Entorno:** Para comenzar con Vue.js, investigué sobre su documentación oficial y recursos en línea. Usé Vue CLI para crear un nuevo proyecto y configurar el entorno de desarrollo.
-
-**Entendimiento de la Estructura de Vue.js:** Exploré la estructura de componentes en Vue.js, aprendí sobre la reactividad y cómo gestionar el estado y los eventos dentro de los componentes. Adapté el código de React a Vue, transformando JSX en plantillas de Vue y ajustando la lógica del estado y los métodos.
-
-**Adaptación del Código:** Traduje la lógica de la simulación de React a Vue.js, implementando la caída de formas y la interacción del usuario. Ajusté la funcionalidad para que las formas respondieran a la fuerza aplicada y se actualizaran en tiempo real.
-
-**Pruebas y Ajustes:** Realicé pruebas para asegurar que todas las funcionalidades operaran correctamente y optimicé el rendimiento de la aplicación. Pese a que no pude hacer una implementación perfecta (como la barra que no se actualiza en tiempo real, pero sí el texto de fuerza), considero que el proyecto cumple con los requerimientos.
-
-## 👨‍💻 Contacto
-
-Si tienes alguna pregunta o necesitas más información, no dudes en contactarme:
+If you have any questions or need more information, feel free to reach out:
 
 -   **Email:** luciano.achinangeles@gmail.com
 -   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/LuVaAcAn/)
+
+Thank you for your interest in my project! 😊
+Feel free to modify it as needed!
